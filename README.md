@@ -3,7 +3,7 @@
 
 Machine Learning Mini-Project – CI1 –
 
-## 📌 Project Overview
+##  Project Overview
 
 This project focuses on automatically detecting whether an English tweet is **sarcastic** or **non-sarcastic**, using classical Machine Learning techniques for text classification.
 
@@ -12,7 +12,7 @@ The goal is to build a full ML pipeline: data exploration, preprocessing, vector
 
 ---
 
-## 📂 Dataset
+##  Dataset
 
 Source: [https://github.com/iabufarha/iSarcasmEval](https://github.com/iabufarha/iSarcasmEval)
 
@@ -108,7 +108,7 @@ The project produced:
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ```
 ├── data/
@@ -119,16 +119,13 @@ The project produced:
 │   ├── sarcasm_detection.ipynb
 │   ├── sarcasm_detection.html
 │
-├── models/
-│   ├── best_model.pkl
-│   ├── vectorizer.pkl
 │
 ├── README.md
 ```
 
 ---
 
-## 🧠 Conclusion
+##  Conclusion
 
 This project demonstrates a complete machine-learning workflow for text classification.
 After testing several models, the chosen algorithm achieved the best balance between accuracy and generalization, making it the final solution used for inference on the test dataset.
@@ -140,5 +137,5 @@ Possible extensions include:
 * Improving preprocessing with better linguistic features
 ---
 
-## 💡 Author
+##  Author
 Project developed as part of the **Machine Learning** course (CI1),
